@@ -7,4 +7,8 @@ Creating a new branch is quick and simple.{
 cout<<"Hello world"<<endl;
 cout<<"NO BUG"<<endl;
 }
-add a new branch named zx.
+add a new branch named zx.{
+cout<<"checkfall"<<endl;
+cout<<"NO BUG"<<endl;
+}
+
